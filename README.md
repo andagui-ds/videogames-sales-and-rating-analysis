@@ -11,8 +11,12 @@
   </a>
 </p>
 
-🚀 **Live Interactive Dashboard:** [Click here to launch the app](https://videogames-sales-and-rating-analysis-dcfheimytypthjcp94ckts.streamlit.app/)
-
+<p align="center">
+  🚀 <b>Live Interactive Dashboard:</b> 
+  <a href="https://videogames-sales-and-rating-analysis-dcfheimytypthjcp94ckts.streamlit.app/" target="_blank">
+    Click here to launch the app
+  </a>
+</p>
 ---
 
 ## 🇺🇸 English
