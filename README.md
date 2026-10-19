@@ -5,6 +5,14 @@
   <a href="#-english">🇺🇸 English</a> • <a href="#-español">🇲🇽 Español</a>
 </p>
 
+<p align="center">
+  <a href="https://videogames-sales-and-rating-analysis-dcfheimytypthjcp94ckts.streamlit.app/" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+  </a>
+</p>
+
+🚀 **Live Interactive Dashboard:** [Click here to launch the app](https://videogames-sales-and-rating-analysis-dcfheimytypthjcp94ckts.streamlit.app/)
+
 ---
 
 ## 🇺🇸 English
